@@ -1,0 +1,22 @@
+.step1{
+  border-radius:100%;
+  padding: 10px;
+  width: fit-content;
+  border: 2px solid;
+}
+.step2{
+  border-radius:100%;
+  padding: 10px;
+  width: fit-content;
+  border: 2px solid;
+}
+.step3{
+  border-radius:100%;
+  padding: 10px;
+  width: fit-content;
+  border: 2px solid;
+}
+.container{
+  display: flex;
+   justify-content: space-between;
+}
